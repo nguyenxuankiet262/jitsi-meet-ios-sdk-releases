@@ -1055,42 +1055,42 @@
     {
       "filePath": "\/Users\/xkiet262\/Desktop\/Projects\/jitsi-meet\/ios\/sdk\/src\/picture-in-picture\/PiPViewCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1354,
+      "offset": 1346,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/xkiet262\/Desktop\/Projects\/jitsi-meet\/ios\/sdk\/src\/picture-in-picture\/PiPViewCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1424,
+      "offset": 1416,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/xkiet262\/Desktop\/Projects\/jitsi-meet\/ios\/sdk\/src\/picture-in-picture\/PiPViewCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1495,
+      "offset": 1487,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/xkiet262\/Desktop\/Projects\/jitsi-meet\/ios\/sdk\/src\/picture-in-picture\/PiPViewCoordinator.swift",
       "kind": "IntegerLiteral",
-      "offset": 1565,
+      "offset": 1557,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/xkiet262\/Desktop\/Projects\/jitsi-meet\/ios\/sdk\/src\/picture-in-picture\/PiPViewCoordinator.swift",
       "kind": "FloatLiteral",
-      "offset": 1891,
+      "offset": 1883,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/xkiet262\/Desktop\/Projects\/jitsi-meet\/ios\/sdk\/src\/picture-in-picture\/PiPViewCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1992,
+      "offset": 1984,
       "length": 5,
       "value": "false"
     }
