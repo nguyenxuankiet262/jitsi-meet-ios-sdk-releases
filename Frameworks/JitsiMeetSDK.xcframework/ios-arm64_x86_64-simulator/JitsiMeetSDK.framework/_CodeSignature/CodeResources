@@ -16,18 +16,6 @@
 		<data>
 		qU7OsCaFMpm2j24h/zSvv3VMZGY=
 		</data>
-		<key>ComodoRsaDomainValidationCA.der</key>
-		<data>
-		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
-		</data>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<data>
-		WmsiU6uQ2wfN2815nK1swqWHIeU=
-		</data>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
 		<key>GTMAppAuth_Privacy.bundle/Info.plist</key>
 		<data>
 		dYxlO4s+ULXpb0M7NG33L3R/74M=
@@ -428,7 +416,7 @@
 		</data>
 		<key>Headers/JitsiMeet.h</key>
 		<data>
-		KAQj1J5U1olriqJ7VUOgUDwVtg4=
+		gSTYgM6d7txTM53HA8yxkJgK94A=
 		</data>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -464,7 +452,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jVL0ubXluGOOx4dFKLFdqdMjzKQ=
+		iC30eSTteSmgUIvJPI44w3hXtnU=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -484,7 +472,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Sz6QqhcZxzDMlhRK5s/kvP10Yfw=
+		CvMSEv1dp91qX7xPGqni5j9zdvw=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -504,23 +492,15 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hzQ9exEmXzj33FnW1uxGxtLw2bc=
+		++6uW5J7maIDVvVOJDY8+0YbEyw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		weCgT6+zuQYvdnqNYOrkG1W5Gt0=
 		</data>
-		<key>Promises_Privacy.bundle/Info.plist</key>
-		<data>
-		ioOsxLMOaaVBz4Rw0iqrbkMLCRs=
-		</data>
-		<key>Promises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
-		3Ivd+MWwKOsX1y+5/K57D5wHaVk=
+		v6PId/c95G6xFxJ04fbj/Tus6QY=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -534,9 +514,29 @@
 		<data>
 		sPDfyCwXVFwSP8cGRWRskpblWgM=
 		</data>
+		<key>RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<data>
+		aniEmCu0hpOqiDHfeu+rwJA2OC4=
+		</data>
+		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		m8aNKGgCLWHtBQWong4x8zsNang=
+		</data>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<data>
+		GP7OYla6DiDb9TUp7ygAU0/pAFE=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<data>
+		+VLexPzHghS5+wGZ2o3Pb4hzkK4=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<data>
+		uBh9rD7P0EEOLBtlduH9X3cREsM=
+		</data>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<data>
-		MgOacNb5ij4rPxxIKDg5/HpwQnQ=
+		/3dLSNHt26l9TzHSDXfeLRadHBk=
 		</data>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -544,7 +544,7 @@
 		</data>
 		<key>React-cxxreact_privacy.bundle/Info.plist</key>
 		<data>
-		GJOQos04XUD0taGyuXnpNptJoUc=
+		6vKvcwXNl6+MUURXqlon5XN3oew=
 		</data>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -800,7 +800,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		xBRpLsGehr84s088bUQA8mcfiyo=
+		rJGTWnk8TmIQ2TCM/iBMqd5zSKM=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1008,27 +1008,6 @@
 			<key>hash2</key>
 			<data>
 			vlGGlNTQbYekZxUcdQvF8AYVe85O+PiMDQRnuHRlTjw=
-			</data>
-		</dict>
-		<key>ComodoRsaDomainValidationCA.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+wVKm37G6sMI6Zy1hTwrT0KhLnusRP+/pqcH/WNEP/0=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
 			</data>
 		</dict>
 		<key>GTMAppAuth_Privacy.bundle/Info.plist</key>
@@ -1475,7 +1454,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f3ipytNbBcd78KgmaoRNLYZzKRbzckIumTmslooDsWU=
+			OvYwVywd4wYmfO1Tf2pPOtZ+qyL+x8DiLHb9jOP08SU=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetBaseLogHandler.h</key>
@@ -1566,7 +1545,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vHA2wldd8VV5zjq/OhAnpKXpb2kwqOv6tv4dKxwSUCA=
+			JtsbBWn1tfEXygu8Mm5DqRX+CbrhuRx6aNh0osxXIbg=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1601,7 +1580,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kmX+57+Lv+ra9yJAt9Mr+1gRB3X9KAjgTnk6ajNfAL0=
+			88pkjF3Ef41CfeBuctNzVOrjkEmwsuL5kH5t4ApqDek=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1611,25 +1590,11 @@
 			2y38ncwaeNspj1sO7JG0Lqnux7t51/2RZi+4apSrE+w=
 			</data>
 		</dict>
-		<key>Promises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cebhSQ3y146MBwrdIYkn/ARYSMRnqicQVIXpQNufxmI=
-			</data>
-		</dict>
-		<key>Promises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wm+XPWD0/teWTf5s3kXX3mTP71eiSVAl/wQR2zgCgec=
+			zSeE1Rbbq7KtkD5WNn7F73rHb7ZEQgbI/IH9xGIKcq4=
 			</data>
 		</dict>
 		<key>README.md</key>
@@ -1653,11 +1618,46 @@
 			CxKH0OaGz4Z9ONl8yl3GlLMCnyfE/kJw3UvS/VRYovA=
 			</data>
 		</dict>
+		<key>RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gVCEf176gW3W532sB6Z9yPdmx1Au10u1hNauP3uK+l0=
+			</data>
+		</dict>
+		<key>RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Ye67kwWytlqe/PE3iAZKFQmf1/L4XhtOgUgWAH3aeY=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+57JZ8wscIhzsq1PyQI0Of7ksrv12Zqrxa3jrnOpmDw=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRRl/fIr4pQqkGSCmYRAyw0/aGOTcpNrit0zlcC0Dtk=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IjeoZNeITsXaqYQpPXdb5hrqaJk+s2Qqy5e5V5lT//I=
+			</data>
+		</dict>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ghwF7cDKJkzKSHDxbgkHyN9r15mAVJu+EW9thUJJgso=
+			eDZbmRusgOHhDjmsPsctSbAH0f1yZI2puFjxfn8m/r8=
 			</data>
 		</dict>
 		<key>React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1671,7 +1671,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jA6OVwPmYwvRFJSMnBR6NyHTuknjt+2R7nd+wVRVv14=
+			uNCBwvX6UGT7FNhgi/yAgManLLzhjdwqem54Cvps6bQ=
 			</data>
 		</dict>
 		<key>React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -2119,7 +2119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			62xYVXjg6H8RgONS7xZcGxzgesaLi5hEPFDXpu7ujW0=
+			9Ehh1nDCEH3awwmwa1VtN50omWc4icv+fWy5RfU19RA=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
